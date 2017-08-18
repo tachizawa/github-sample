@@ -1,4 +1,4 @@
-I recommend ed25519.
+I recommend [ed25519](https://github.com/eiminsasete/github-sample/blob/master/connect-with/ed25519.md).
 
 # SSH key
 
